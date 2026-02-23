@@ -1,0 +1,14 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+Texture 1 source url: https://www.freecreatives.com/textures/seamless-texture.html
+
+Texture 2 source url: https://stock.adobe.com/search?k=seamless+texture
+
+3D model source url: https://github.com/kateisalalila-lab/MULT-150/blob/main/ksalalila_Hour2/Assets/Scenes/ksalalila_Hour2.unity
+
